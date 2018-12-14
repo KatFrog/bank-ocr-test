@@ -1,1 +1,1 @@
-# bank-ocr-test
+# Bank OCR Kata 
